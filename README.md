@@ -11,3 +11,6 @@ DevOps лабораторна №1
     1. Indented item
     2. Indented item
 4. Fourth item
+
+
+## New message from git bash.
